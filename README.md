@@ -1,2 +1,2 @@
 # Weather
-Weather Forecast using Artificial Neiral Network
+Weather Forecast using Artificial Neural Network
